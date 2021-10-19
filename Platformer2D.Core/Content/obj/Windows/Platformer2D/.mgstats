@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/PlayerJump.wav","G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/bin/Windows/Platformer2D/Sounds/PlayerJump.xnb","SoundEffectProcessor","SoundEffectContent",65616,65641,2.0542097
+"G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/PlayerKilled.wav","G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/bin/Windows/Platformer2D/Sounds/PlayerKilled.xnb","SoundEffectProcessor","SoundEffectContent",163920,163945,1.9078062
+"G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/Powerup.wav","G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/bin/Windows/Platformer2D/Sounds/Powerup.xnb","SoundEffectProcessor","SoundEffectContent",1114212,1114217,1.8116864

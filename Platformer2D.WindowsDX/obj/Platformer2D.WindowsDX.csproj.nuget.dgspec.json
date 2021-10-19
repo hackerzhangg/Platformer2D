@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\MonoGame Platformer2D\\Platformer2D\\Platformer2D.WindowsDX\\Platformer2D.WindowsDX.csproj": {}
+  },
+  "projects": {
+    "G:\\MonoGame Platformer2D\\Platformer2D\\Platformer2D.Core\\Platformer2D.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MonoGame Platformer2D\\Platformer2D\\Platformer2D.Core\\Platformer2D.Core.csproj",
+        "projectName": "Platformer2D.Core",
+        "projectPath": "G:\\MonoGame Platformer2D\\Platformer2D\\Platformer2D.Core\\Platformer2D.Core.csproj",
+        "packagesPath": "C:\\Users\\zgp\\.nuget\\packages\\",
+        "outputPath": "G:\\MonoGame Platformer2D\\Platformer2D\\Platformer2D.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VisualStudioSharedFile\\VisualStudioShared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zgp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MonoGame.Framework.DesktopGL": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\MonoGame Platformer2D\\Platformer2D\\Platformer2D.WindowsDX\\Platformer2D.WindowsDX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MonoGame Platformer2D\\Platformer2D\\Platformer2D.WindowsDX\\Platformer2D.WindowsDX.csproj",
+        "projectName": "Platformer2D.WindowsDX",
+        "projectPath": "G:\\MonoGame Platformer2D\\Platformer2D\\Platformer2D.WindowsDX\\Platformer2D.WindowsDX.csproj",
+        "packagesPath": "C:\\Users\\zgp\\.nuget\\packages\\",
+        "outputPath": "G:\\MonoGame Platformer2D\\Platformer2D\\Platformer2D.WindowsDX\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VisualStudioSharedFile\\VisualStudioShared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zgp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "G:\\MonoGame Platformer2D\\Platformer2D\\Platformer2D.Core\\Platformer2D.Core.csproj": {
+                "projectPath": "G:\\MonoGame Platformer2D\\Platformer2D\\Platformer2D.Core\\Platformer2D.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Framework.WindowsDX": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

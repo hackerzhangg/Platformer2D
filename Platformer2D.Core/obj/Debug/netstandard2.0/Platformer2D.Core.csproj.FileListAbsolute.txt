@@ -1,0 +1,10 @@
+G:\MonoGame Platformer2D\Platformer2D\Platformer2D.Core\bin\Debug\netstandard2.0\Platformer2D.Core.deps.json
+G:\MonoGame Platformer2D\Platformer2D\Platformer2D.Core\bin\Debug\netstandard2.0\Platformer2D.Core.dll
+G:\MonoGame Platformer2D\Platformer2D\Platformer2D.Core\bin\Debug\netstandard2.0\Platformer2D.Core.pdb
+G:\MonoGame Platformer2D\Platformer2D\Platformer2D.Core\obj\Debug\netstandard2.0\Platformer2D.Core.csproj.AssemblyReference.cache
+G:\MonoGame Platformer2D\Platformer2D\Platformer2D.Core\obj\Debug\netstandard2.0\Platformer2D.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\MonoGame Platformer2D\Platformer2D\Platformer2D.Core\obj\Debug\netstandard2.0\Platformer2D.Core.AssemblyInfoInputs.cache
+G:\MonoGame Platformer2D\Platformer2D\Platformer2D.Core\obj\Debug\netstandard2.0\Platformer2D.Core.AssemblyInfo.cs
+G:\MonoGame Platformer2D\Platformer2D\Platformer2D.Core\obj\Debug\netstandard2.0\Platformer2D.Core.csproj.CoreCompileInputs.cache
+G:\MonoGame Platformer2D\Platformer2D\Platformer2D.Core\obj\Debug\netstandard2.0\Platformer2D.Core.dll
+G:\MonoGame Platformer2D\Platformer2D\Platformer2D.Core\obj\Debug\netstandard2.0\Platformer2D.Core.pdb

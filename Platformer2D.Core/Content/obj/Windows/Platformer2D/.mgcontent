@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Backgrounds/Layer0_0.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Backgrounds/Layer0_1.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Backgrounds/Layer0_2.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Backgrounds/Layer1_0.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Backgrounds/Layer1_1.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Backgrounds/Layer1_2.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Backgrounds/Layer2_0.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Backgrounds/Layer2_1.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Backgrounds/Layer2_2.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Fonts/Hud.spritefont</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Overlays/you_died.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Overlays/you_lose.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Overlays/you_win.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/ExitReached.wav</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/GemCollected.wav</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/MonsterKilled.wav</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/Music.wma</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/PlayerFall.wav</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/PlayerJump.wav</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/PlayerKilled.wav</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/Powerup.wav</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/Gem.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/MonsterA/Idle.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/MonsterA/Run.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/MonsterB/Idle.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/MonsterB/Run.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/MonsterC/Idle.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/MonsterC/Run.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/MonsterD/Idle.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/MonsterD/Run.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/Player/Celebrate.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/Player/Die.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/Player/Idle.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/Player/Jump.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/Player/Run.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sprites/VirtualControlArrow.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Tiles/BlockA0.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Tiles/BlockA1.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Tiles/BlockA2.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Tiles/BlockA3.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Tiles/BlockA4.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Tiles/BlockA5.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Tiles/BlockA6.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Tiles/BlockB0.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Tiles/BlockB1.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Tiles/Exit.png</File>
+    <File>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Tiles/Platform.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/Sounds/GemCollected.wav</SourceFile>
+  <SourceTime>2020-10-20T06:43:19+08:00</SourceTime>
+  <DestFile>G:/MonoGame Platformer2D/Platformer2D/Platformer2D.Core/Content/bin/Windows/Platformer2D/Sounds/GemCollected.xnb</DestFile>
+  <DestTime>2021-10-19T22:28:47.2817506+08:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+08:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
